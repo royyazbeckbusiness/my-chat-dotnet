@@ -1,0 +1,13 @@
+D:\EducationAndWork\mychat\MyChat.Tests\obj\Debug\MyChat.Tests.csprojResolveAssemblyReference.cache
+D:\EducationAndWork\mychat\MyChat.Tests\bin\Debug\chat.txt
+D:\EducationAndWork\mychat\MyChat.Tests\bin\Debug\MindLink.Recruitment.MyChat.Tests.dll
+D:\EducationAndWork\mychat\MyChat.Tests\bin\Debug\MindLink.Recruitment.MyChat.Tests.pdb
+D:\EducationAndWork\mychat\MyChat.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\EducationAndWork\mychat\MyChat.Tests\bin\Debug\MindLink.Recruitment.MyChat.exe
+D:\EducationAndWork\mychat\MyChat.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\EducationAndWork\mychat\MyChat.Tests\bin\Debug\Rhino.Mocks.dll
+D:\EducationAndWork\mychat\MyChat.Tests\bin\Debug\MindLink.Recruitment.MyChat.pdb
+D:\EducationAndWork\mychat\MyChat.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\EducationAndWork\mychat\MyChat.Tests\bin\Debug\Rhino.Mocks.xml
+D:\EducationAndWork\mychat\MyChat.Tests\obj\Debug\MindLink.Recruitment.MyChat.Tests.dll
+D:\EducationAndWork\mychat\MyChat.Tests\obj\Debug\MindLink.Recruitment.MyChat.Tests.pdb

@@ -1,0 +1,9 @@
+D:\EducationAndWork\mychat\MyChat\bin\Debug\chat.txt
+D:\EducationAndWork\mychat\MyChat\bin\Debug\MindLink.Recruitment.MyChat.exe.config
+D:\EducationAndWork\mychat\MyChat\bin\Debug\MindLink.Recruitment.MyChat.exe
+D:\EducationAndWork\mychat\MyChat\bin\Debug\MindLink.Recruitment.MyChat.pdb
+D:\EducationAndWork\mychat\MyChat\bin\Debug\Newtonsoft.Json.dll
+D:\EducationAndWork\mychat\MyChat\bin\Debug\Newtonsoft.Json.xml
+D:\EducationAndWork\mychat\MyChat\obj\Debug\MindLink.Recruitment.MyChat.exe
+D:\EducationAndWork\mychat\MyChat\obj\Debug\MindLink.Recruitment.MyChat.pdb
+D:\EducationAndWork\mychat\MyChat\obj\Debug\MyChat.csprojResolveAssemblyReference.cache

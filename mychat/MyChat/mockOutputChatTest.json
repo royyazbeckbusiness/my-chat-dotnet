@@ -1,0 +1,285 @@
+{
+  "__interceptors": [
+    {}
+  ],
+  "Rhino.Mocks.Interfaces.IMockedObject.DependentMocks": [],
+  "Rhino.Mocks.Interfaces.IMockedObject.ProxyHash": 8,
+  "Rhino.Mocks.Interfaces.IMockedObject.Repository": {},
+  "Rhino.Mocks.Interfaces.IMockedObject.ImplementedTypes": [
+    "MindLink.Recruitment.MyChat.Conversation, MindLink.Recruitment.MyChat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Rhino.Mocks.Interfaces.IMockedObject.ConstructorArguments": [
+    "My Conversation",
+    [
+      {
+        "__interceptors": [
+          {}
+        ],
+        "Rhino.Mocks.Interfaces.IMockedObject.DependentMocks": [],
+        "Rhino.Mocks.Interfaces.IMockedObject.ProxyHash": 1,
+        "Rhino.Mocks.Interfaces.IMockedObject.Repository": {},
+        "Rhino.Mocks.Interfaces.IMockedObject.ImplementedTypes": [
+          "MindLink.Recruitment.MyChat.Message, MindLink.Recruitment.MyChat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+        ],
+        "Rhino.Mocks.Interfaces.IMockedObject.ConstructorArguments": [
+          "2015-11-25T17:01:41+00:00",
+          "bob",
+          "Hi. I am fucking crazy for houmous."
+        ],
+        "Content": "Hi. I am fucking crazy for houmous.",
+        "Timestamp": "2015-11-25T17:01:41+00:00",
+        "SenderId": "bob"
+      },
+      {
+        "__interceptors": [
+          {}
+        ],
+        "Rhino.Mocks.Interfaces.IMockedObject.DependentMocks": [],
+        "Rhino.Mocks.Interfaces.IMockedObject.ProxyHash": 2,
+        "Rhino.Mocks.Interfaces.IMockedObject.Repository": {},
+        "Rhino.Mocks.Interfaces.IMockedObject.ImplementedTypes": [
+          "MindLink.Recruitment.MyChat.Message, MindLink.Recruitment.MyChat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+        ],
+        "Rhino.Mocks.Interfaces.IMockedObject.ConstructorArguments": [
+          "2015-11-25T17:01:45+00:00",
+          "mike",
+          "how are you?"
+        ],
+        "Content": "how are you?",
+        "Timestamp": "2015-11-25T17:01:45+00:00",
+        "SenderId": "mike"
+      },
+      {
+        "__interceptors": [
+          {}
+        ],
+        "Rhino.Mocks.Interfaces.IMockedObject.DependentMocks": [],
+        "Rhino.Mocks.Interfaces.IMockedObject.ProxyHash": 3,
+        "Rhino.Mocks.Interfaces.IMockedObject.Repository": {},
+        "Rhino.Mocks.Interfaces.IMockedObject.ImplementedTypes": [
+          "MindLink.Recruitment.MyChat.Message, MindLink.Recruitment.MyChat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+        ],
+        "Rhino.Mocks.Interfaces.IMockedObject.ConstructorArguments": [
+          "2015-11-25T17:01:46+00:00",
+          "bob",
+          "I'm good thanks, do you like houmous?"
+        ],
+        "Content": "I'm good thanks, do you like houmous?",
+        "Timestamp": "2015-11-25T17:01:46+00:00",
+        "SenderId": "bob"
+      },
+      {
+        "__interceptors": [
+          {}
+        ],
+        "Rhino.Mocks.Interfaces.IMockedObject.DependentMocks": [],
+        "Rhino.Mocks.Interfaces.IMockedObject.ProxyHash": 4,
+        "Rhino.Mocks.Interfaces.IMockedObject.Repository": {},
+        "Rhino.Mocks.Interfaces.IMockedObject.ImplementedTypes": [
+          "MindLink.Recruitment.MyChat.Message, MindLink.Recruitment.MyChat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+        ],
+        "Rhino.Mocks.Interfaces.IMockedObject.ConstructorArguments": [
+          "2015-11-25T17:01:50+00:00",
+          "mike",
+          "no, let me ask Angus..."
+        ],
+        "Content": "no, let me ask Angus...",
+        "Timestamp": "2015-11-25T17:01:50+00:00",
+        "SenderId": "mike"
+      },
+      {
+        "__interceptors": [
+          {}
+        ],
+        "Rhino.Mocks.Interfaces.IMockedObject.DependentMocks": [],
+        "Rhino.Mocks.Interfaces.IMockedObject.ProxyHash": 5,
+        "Rhino.Mocks.Interfaces.IMockedObject.Repository": {},
+        "Rhino.Mocks.Interfaces.IMockedObject.ImplementedTypes": [
+          "MindLink.Recruitment.MyChat.Message, MindLink.Recruitment.MyChat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+        ],
+        "Rhino.Mocks.Interfaces.IMockedObject.ConstructorArguments": [
+          "2015-11-25T17:01:52+00:00",
+          "angus",
+          "Hell yes! Are we buying some houmous?"
+        ],
+        "Content": "Hell yes! Are we buying some houmous?",
+        "Timestamp": "2015-11-25T17:01:52+00:00",
+        "SenderId": "angus"
+      },
+      {
+        "__interceptors": [
+          {}
+        ],
+        "Rhino.Mocks.Interfaces.IMockedObject.DependentMocks": [],
+        "Rhino.Mocks.Interfaces.IMockedObject.ProxyHash": 6,
+        "Rhino.Mocks.Interfaces.IMockedObject.Repository": {},
+        "Rhino.Mocks.Interfaces.IMockedObject.ImplementedTypes": [
+          "MindLink.Recruitment.MyChat.Message, MindLink.Recruitment.MyChat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+        ],
+        "Rhino.Mocks.Interfaces.IMockedObject.ConstructorArguments": [
+          "2015-11-25T17:01:54+00:00",
+          "bob",
+          "No, just want to know if there's anybody else in the houmous society..."
+        ],
+        "Content": "No, just want to know if there's anybody else in the houmous society...",
+        "Timestamp": "2015-11-25T17:01:54+00:00",
+        "SenderId": "bob"
+      },
+      {
+        "__interceptors": [
+          {}
+        ],
+        "Rhino.Mocks.Interfaces.IMockedObject.DependentMocks": [],
+        "Rhino.Mocks.Interfaces.IMockedObject.ProxyHash": 7,
+        "Rhino.Mocks.Interfaces.IMockedObject.Repository": {},
+        "Rhino.Mocks.Interfaces.IMockedObject.ImplementedTypes": [
+          "MindLink.Recruitment.MyChat.Message, MindLink.Recruitment.MyChat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+        ],
+        "Rhino.Mocks.Interfaces.IMockedObject.ConstructorArguments": [
+          "2015-11-25T17:01:55+00:00",
+          "angus",
+          "YES! I'm the head houmous eater there..."
+        ],
+        "Content": "YES! I'm the head houmous eater there...",
+        "Timestamp": "2015-11-25T17:01:55+00:00",
+        "SenderId": "angus"
+      }
+    ]
+  ],
+  "Name": "My Conversation",
+  "Messages": [
+    {
+      "__interceptors": [
+        {}
+      ],
+      "Rhino.Mocks.Interfaces.IMockedObject.DependentMocks": [],
+      "Rhino.Mocks.Interfaces.IMockedObject.ProxyHash": 1,
+      "Rhino.Mocks.Interfaces.IMockedObject.Repository": {},
+      "Rhino.Mocks.Interfaces.IMockedObject.ImplementedTypes": [
+        "MindLink.Recruitment.MyChat.Message, MindLink.Recruitment.MyChat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+      ],
+      "Rhino.Mocks.Interfaces.IMockedObject.ConstructorArguments": [
+        "2015-11-25T17:01:41+00:00",
+        "bob",
+        "Hi. I am fucking crazy for houmous."
+      ],
+      "Content": "Hi. I am fucking crazy for houmous.",
+      "Timestamp": "2015-11-25T17:01:41+00:00",
+      "SenderId": "bob"
+    },
+    {
+      "__interceptors": [
+        {}
+      ],
+      "Rhino.Mocks.Interfaces.IMockedObject.DependentMocks": [],
+      "Rhino.Mocks.Interfaces.IMockedObject.ProxyHash": 2,
+      "Rhino.Mocks.Interfaces.IMockedObject.Repository": {},
+      "Rhino.Mocks.Interfaces.IMockedObject.ImplementedTypes": [
+        "MindLink.Recruitment.MyChat.Message, MindLink.Recruitment.MyChat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+      ],
+      "Rhino.Mocks.Interfaces.IMockedObject.ConstructorArguments": [
+        "2015-11-25T17:01:45+00:00",
+        "mike",
+        "how are you?"
+      ],
+      "Content": "how are you?",
+      "Timestamp": "2015-11-25T17:01:45+00:00",
+      "SenderId": "mike"
+    },
+    {
+      "__interceptors": [
+        {}
+      ],
+      "Rhino.Mocks.Interfaces.IMockedObject.DependentMocks": [],
+      "Rhino.Mocks.Interfaces.IMockedObject.ProxyHash": 3,
+      "Rhino.Mocks.Interfaces.IMockedObject.Repository": {},
+      "Rhino.Mocks.Interfaces.IMockedObject.ImplementedTypes": [
+        "MindLink.Recruitment.MyChat.Message, MindLink.Recruitment.MyChat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+      ],
+      "Rhino.Mocks.Interfaces.IMockedObject.ConstructorArguments": [
+        "2015-11-25T17:01:46+00:00",
+        "bob",
+        "I'm good thanks, do you like houmous?"
+      ],
+      "Content": "I'm good thanks, do you like houmous?",
+      "Timestamp": "2015-11-25T17:01:46+00:00",
+      "SenderId": "bob"
+    },
+    {
+      "__interceptors": [
+        {}
+      ],
+      "Rhino.Mocks.Interfaces.IMockedObject.DependentMocks": [],
+      "Rhino.Mocks.Interfaces.IMockedObject.ProxyHash": 4,
+      "Rhino.Mocks.Interfaces.IMockedObject.Repository": {},
+      "Rhino.Mocks.Interfaces.IMockedObject.ImplementedTypes": [
+        "MindLink.Recruitment.MyChat.Message, MindLink.Recruitment.MyChat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+      ],
+      "Rhino.Mocks.Interfaces.IMockedObject.ConstructorArguments": [
+        "2015-11-25T17:01:50+00:00",
+        "mike",
+        "no, let me ask Angus..."
+      ],
+      "Content": "no, let me ask Angus...",
+      "Timestamp": "2015-11-25T17:01:50+00:00",
+      "SenderId": "mike"
+    },
+    {
+      "__interceptors": [
+        {}
+      ],
+      "Rhino.Mocks.Interfaces.IMockedObject.DependentMocks": [],
+      "Rhino.Mocks.Interfaces.IMockedObject.ProxyHash": 5,
+      "Rhino.Mocks.Interfaces.IMockedObject.Repository": {},
+      "Rhino.Mocks.Interfaces.IMockedObject.ImplementedTypes": [
+        "MindLink.Recruitment.MyChat.Message, MindLink.Recruitment.MyChat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+      ],
+      "Rhino.Mocks.Interfaces.IMockedObject.ConstructorArguments": [
+        "2015-11-25T17:01:52+00:00",
+        "angus",
+        "Hell yes! Are we buying some houmous?"
+      ],
+      "Content": "Hell yes! Are we buying some houmous?",
+      "Timestamp": "2015-11-25T17:01:52+00:00",
+      "SenderId": "angus"
+    },
+    {
+      "__interceptors": [
+        {}
+      ],
+      "Rhino.Mocks.Interfaces.IMockedObject.DependentMocks": [],
+      "Rhino.Mocks.Interfaces.IMockedObject.ProxyHash": 6,
+      "Rhino.Mocks.Interfaces.IMockedObject.Repository": {},
+      "Rhino.Mocks.Interfaces.IMockedObject.ImplementedTypes": [
+        "MindLink.Recruitment.MyChat.Message, MindLink.Recruitment.MyChat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+      ],
+      "Rhino.Mocks.Interfaces.IMockedObject.ConstructorArguments": [
+        "2015-11-25T17:01:54+00:00",
+        "bob",
+        "No, just want to know if there's anybody else in the houmous society..."
+      ],
+      "Content": "No, just want to know if there's anybody else in the houmous society...",
+      "Timestamp": "2015-11-25T17:01:54+00:00",
+      "SenderId": "bob"
+    },
+    {
+      "__interceptors": [
+        {}
+      ],
+      "Rhino.Mocks.Interfaces.IMockedObject.DependentMocks": [],
+      "Rhino.Mocks.Interfaces.IMockedObject.ProxyHash": 7,
+      "Rhino.Mocks.Interfaces.IMockedObject.Repository": {},
+      "Rhino.Mocks.Interfaces.IMockedObject.ImplementedTypes": [
+        "MindLink.Recruitment.MyChat.Message, MindLink.Recruitment.MyChat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+      ],
+      "Rhino.Mocks.Interfaces.IMockedObject.ConstructorArguments": [
+        "2015-11-25T17:01:55+00:00",
+        "angus",
+        "YES! I'm the head houmous eater there..."
+      ],
+      "Content": "YES! I'm the head houmous eater there...",
+      "Timestamp": "2015-11-25T17:01:55+00:00",
+      "SenderId": "angus"
+    }
+  ]
+}

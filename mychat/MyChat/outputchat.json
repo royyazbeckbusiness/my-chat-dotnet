@@ -1,0 +1,10 @@
+{
+  "Name": "My Conversation",
+  "Messages": [
+    {
+      "Content": "No, just want to know if there's anybody else in the *redacted* society...",
+      "Timestamp": "2015-11-25T17:01:54+00:00",
+      "SenderId": "bob"
+    }
+  ]
+}

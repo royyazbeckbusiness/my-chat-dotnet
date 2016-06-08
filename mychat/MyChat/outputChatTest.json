@@ -1,0 +1,40 @@
+{
+  "Name": "My Conversation",
+  "Messages": [
+    {
+      "Content": "Hi. I am fucking crazy for houmous.",
+      "Timestamp": "2015-11-25T17:01:41+00:00",
+      "SenderId": "bob"
+    },
+    {
+      "Content": "how are you?",
+      "Timestamp": "2015-11-25T17:01:45+00:00",
+      "SenderId": "mike"
+    },
+    {
+      "Content": "I'm good thanks, do you like houmous?",
+      "Timestamp": "2015-11-25T17:01:46+00:00",
+      "SenderId": "bob"
+    },
+    {
+      "Content": "no, let me ask Angus...",
+      "Timestamp": "2015-11-25T17:01:50+00:00",
+      "SenderId": "mike"
+    },
+    {
+      "Content": "Hell yes! Are we buying some houmous?",
+      "Timestamp": "2015-11-25T17:01:52+00:00",
+      "SenderId": "angus"
+    },
+    {
+      "Content": "No, just want to know if there's anybody else in the houmous society...",
+      "Timestamp": "2015-11-25T17:01:54+00:00",
+      "SenderId": "bob"
+    },
+    {
+      "Content": "YES! I'm the head houmous eater there...",
+      "Timestamp": "2015-11-25T17:01:55+00:00",
+      "SenderId": "angus"
+    }
+  ]
+}
